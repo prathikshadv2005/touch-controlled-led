@@ -28,4 +28,4 @@
 
 ## 📷 Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+
