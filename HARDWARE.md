@@ -8,13 +8,13 @@
 |-------------|--------------------|------|
 | VCC | Pin 1 | 3.3V |
 | GND | Pin 6 | GND |
-| SIG | Pin 11 | GPIO17 |
+| SIG | Pin 11 | GPIO15 |
 
 ### LED
 
 | LED Connection | Raspberry Pi 4 Pin | GPIO |
 |----------------|--------------------|------|
-| LED Anode (+) → 220Ω Resistor | Pin 12 | GPIO18 |
+| LED Anode (+) → 220Ω Resistor | Pin 12 | GPIO16 |
 | LED Cathode (-) | Pin 14 | GND |
 
 ---
