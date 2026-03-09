@@ -1,8 +1,8 @@
 import RPi.GPIO as GPIO
 import time
 
-TOUCH_PIN = 17
-LED_PIN = 18
+TOUCH_PIN = 15
+LED_PIN = 16
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(TOUCH_PIN, GPIO.IN)
